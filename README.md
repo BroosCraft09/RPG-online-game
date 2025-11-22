@@ -17,9 +17,12 @@ Multiplayer RPG dengan fitur PVP, Shop, Quest, Dungeon, Skill.
 ### Server
 ```bash
 python server.py
-Client
+```
+### Client
+```bash
 python client.py
-Requirements
+```
+## Requirements
 Python 3.6+
-Author
+## Author
 BocahGabut
